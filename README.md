@@ -15,7 +15,7 @@ I turn visual QA and frontend workflow problems into focused open-source product
 ## Flagship project
 
 <a href="https://github.com/Aston1690/visualproof">
-  <img src="https://raw.githubusercontent.com/Aston1690/visualproof/main/assets/visualproof-hero.svg" alt="VisualProof — evidence-first visual QA for websites" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aston1690/visualproof/main/assets/visualproof-demo.gif" alt="VisualProof auditing desktop and mobile website evidence" width="100%" />
 </a>
 
 ### [VisualProof](https://github.com/Aston1690/visualproof)
